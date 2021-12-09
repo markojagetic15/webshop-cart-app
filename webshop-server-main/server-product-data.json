@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "title": "Smart Hub",
+      "image_tag": "https://www.bug.hr/img/htc-predstavio-prijenosni-5g-smart-hub_Wq-xxb.png",
+      "price": 49.99
+    },
+    {
+      "id": 2,
+      "title": "Wireless Camera",
+      "image_tag": "https://thegadgetflow.com/wp-content/uploads/2020/02/Arlo-Pro-3-Wireless-Security-Camera-System-01-1200x675.jpg",
+      "price": 99.99
+    },
+    {
+      "id": 3,
+      "title": "Motion Sensor",
+      "image_tag": "https://thegadgetflow.com/wp-content/uploads/2019/10/Kangaroo-Motion-Entry-Sensor-Home-Security-Device-02-1200x675.jpg",
+      "price": 24.99
+    },
+    {
+      "id": 4,
+      "title": "Smoke Sensor",
+      "image_tag": "https://www.lifesafetycom.com/wp-content/uploads/2018/11/SIGA-PD-1200x675.jpg",
+      "price": 19.99
+    },
+    {
+      "id": 5,
+      "title": "Water Leak Sensor",
+      "image_tag": "https://thegadgetflow.com/wp-content/uploads/2020/01/Eve-Systems-Eve-Water-Guard-Smart-Leak-Detector-03-1200x675.jpg",
+      "price": 14.99
+    }
+  ]
